@@ -1,0 +1,26 @@
+.Boxes{
+    margin: 70px auto 70px;
+    text-align: center;
+    width: 80%;
+}
+
+.Box{
+      width: 100px;
+  height: 100px;
+    border: 2px solid black;
+    padding: 40px 25px ;
+    margin: 2px 10px;
+    display: inline-block;
+}
+#grey{
+    background-color: grey;
+}
+#pink{
+    background-color: pink;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}

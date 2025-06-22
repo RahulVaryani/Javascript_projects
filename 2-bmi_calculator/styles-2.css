@@ -1,0 +1,31 @@
+.bmi{
+    background-color:slategray;
+    height: 450px;
+    width: 1297px;
+    padding: 32px 52px;
+}
+
+.bmi h2{
+    text-decoration: underline;
+}
+
+.btn{
+    width: 90px;
+    height: 25px;
+    border-radius: 15px;
+    margin-left: 135px;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+#weight-guide{
+    margin-left: 75px;
+    margin-top: 35px;
+}
+
+#results {
+  font-size: 35px;
+  margin-left: 140px;
+  margin-top: 20px;
+  color: rgb(241, 241, 241);
+}
