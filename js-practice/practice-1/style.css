@@ -1,0 +1,22 @@
+*{
+    background-color: gray;
+    margin: 0;
+    padding: 0;
+}
+
+.rect{
+    /* padding: 12px; */
+    color: yellow;
+    border: 2px solid black;
+    width: 400px;
+    height: 200px;
+    display: flex;
+    /* text-align: center; */
+    justify-content: center;
+    align-items: center;
+    position : absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50% , -50%);
+    font-size: 20px;
+}   
